@@ -5,17 +5,17 @@
 This is a node program that will ask you questions about your team members and output an HTML profile for your team.
 
 ## Table of Contents
+* [Demonstration](#Demonstration)
 * [Install](#Install)
-* [Deployed-App](#Deployed-App)
 * [Use](#Use)
 * [License](#License)
 * [Contribute](#Contribute)
 
+## Demonstration
+
 ## Install
 Install dependencies by runnning the following:
 `npm install`
-
-## Deployed-App
 
 ## Use
 Generate Team portfolios.

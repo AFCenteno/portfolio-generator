@@ -13,6 +13,7 @@ This is a node program that will ask you questions about your team members and o
 
 ## Demonstration
 <img src="Walkthrough/Teamprofilegen.gif"/>
+<img src="SAMPLE OUTPUT/TEAMONE.png"/>
 
 ## Install
 Install dependencies by runnning the following:

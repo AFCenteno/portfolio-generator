@@ -12,7 +12,7 @@ This is a node program that will ask you questions about your team members and o
 * [Contribute](#Contribute)
 
 ## Demonstration
-<img src="Walkthrough/Teamprofilegen.gif"/>
+<img src="Walkthrough/TeamProfileGenerator.gif"/>
 <img src="SAMPLE OUTPUT/TEAMONE.png"/>
 
 ## Install

@@ -12,8 +12,7 @@ This is a node program that will ask you questions about your team members and o
 * [Contribute](#Contribute)
 
 ## Demonstration
-![Alt Text](Walkthrough/Teamprofilegen.gif)
-<img src="Walkthrough/Teamprofilegen.gif" width="40" height="40" />
+<img src="Walkthrough/Teamprofilegen.gif" width="500" height="400" />
 
 ## Install
 Install dependencies by runnning the following:
